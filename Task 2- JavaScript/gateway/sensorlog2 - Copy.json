@@ -1,0 +1,57 @@
+[{
+		"reading": {
+			"time": 10,
+      "temperature": 100
+        c
+		}
+	},
+	{
+    "reading": {
+      "time": 20,
+      "temperature": 130,
+      "humidity": 80
+    }
+	},
+	{
+    "reading": {
+      "time": 30,
+      "temperature": 90,
+      "humidity": 15
+    }
+	},
+	{
+    "reading": {
+      "time": 40,
+      "temperature": 80,
+      "humidity": 25
+    }
+	},
+	{
+    "reading": {
+      "time": 50,
+      "temperature": 140
+      "humidity": 45
+    }
+	},
+	{
+    "reading": {
+      "time": 60,
+      "temperature": 105,
+      "humidity": 65
+    }
+	},
+	{
+    "reading": {
+      "time": 70,
+      "temperature": 107,
+      "humidity": 85
+    }
+	},
+	{
+    "reading": {
+      "time": 80,
+      "temperature": 140,
+      "humidity": 95
+    }
+	}
+]

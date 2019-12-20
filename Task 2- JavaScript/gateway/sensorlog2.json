@@ -1,0 +1,49 @@
+[{
+		"reading": {
+			"time": 10,
+			"temperature": 100
+		}
+	},
+	{
+		"reading": {
+			"time": 20,
+			"temperature": 130
+		}
+	},
+	{
+		"reading": {
+			"time": 30,
+			"temperature": 90
+		}
+	},
+	{
+		"reading": {
+			"time": 40,
+			"temperature": 80
+		}
+	},
+	{
+		"reading": {
+			"time": 50,
+			"temperature": 140
+		}
+	},
+	{
+		"reading": {
+			"time": 60,
+			"temperature": 105
+		}
+	},
+	{
+		"reading": {
+			"time": 70,
+			"temperature": 107
+		}
+	},
+	{
+		"reading": {
+			"time": 80,
+			"temperature": 140
+		}
+	}
+]
